@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gerka\\OneDrive\\Рабочий стол\\Моя учеба на разработчика\\C# Program.cs\\UNTITLED(WORKSPACE)\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "E:\\Program.cs\\Hello-code\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gerka\\OneDrive\\Рабочий стол\\Моя учеба на разработчика\\C# Program.cs\\UNTITLED(WORKSPACE)\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "E:\\Program.cs\\Hello-code\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gerka\\OneDrive\\Рабочий стол\\Моя учеба на разработчика\\C# Program.cs\\UNTITLED(WORKSPACE)\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "E:\\Program.cs\\Hello-code\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "C:\\Users\\gerka\\OneDrive\\Рабочий стол\\Моя учеба на разработчика\\C# Program.cs\\UNTITLED(WORKSPACE)\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
-        "packagesPath": "C:\\Users\\gerka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gerka\\OneDrive\\Рабочий стол\\Моя учеба на разработчика\\C# Program.cs\\UNTITLED(WORKSPACE)\\Examples\\Example001_HelloConsole\\obj\\",
+        "projectPath": "E:\\Program.cs\\Hello-code\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "packagesPath": "C:\\Users\\miste\\.nuget\\packages\\",
+        "outputPath": "E:\\Program.cs\\Hello-code\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gerka\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\miste\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.415\\RuntimeIdentifierGraph.json"
         }
       }
     }
